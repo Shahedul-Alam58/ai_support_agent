@@ -1,0 +1,26 @@
+
+Name: Shakib
+Product: Wireless earbuds
+Order ID: 210859
+Date: 2026-02-23 21:08:35
+----------------------
+Name: Shakib
+Product: Wireless earbuds
+Order ID: 210859
+Date: 2026-02-23 21:09:55
+----------------------
+Name: Shakib
+Product: Wireless earbuds
+Order ID: 210859
+Date: 2026-02-28 21:15:12
+----------------------
+Name: Shakib
+Product: Wireless earbuds
+Order ID: 210859
+Date: 2026-02-28 21:17:13
+----------------------
+Name: Karim
+Product: Wireless earbuds
+Order ID: 210859
+Date: 2026-02-28 21:26:09
+----------------------
